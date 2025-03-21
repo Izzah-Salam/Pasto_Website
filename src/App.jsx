@@ -36,7 +36,7 @@ const router = createBrowserRouter([
 function App() {
   return (
     <div
-      className=" bg-cover bg-center bg-[#09090B] text-white" // Tailwind classes for full-screen background
+      className=" min-h-screen bg-center bg-[#09090B] text-white" // Tailwind classes for full-screen background
     >
       <RouterProvider router={router} />
     </div>

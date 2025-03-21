@@ -31,7 +31,7 @@ const Paste = () => {
   // }
 
   return (
-    <div className="flex flex-col items-center  ">
+    <div className="flex flex-col items-center ">
       <input
         className="lg:w-[700px] sm:w-[500px] w-[350px]  outline-none px-5 py-2 rounded-md bg-[#232222] border border-2-[#C3DE2E] "
         type="text"
